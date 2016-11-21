@@ -1,0 +1,7 @@
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\bin\Debug\FireManager.exe
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\bin\Debug\FireManager.pdb
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\obj\x86\Debug\FireManager.Form1.resources
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\obj\x86\Debug\FireManager.Properties.Resources.resources
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\obj\x86\Debug\FireManager.csproj.GenerateResource.Cache
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\obj\x86\Debug\FireManager.exe
+c:\users\user115\documents\visual studio 2010\Projects\FireManager\FireManager\obj\x86\Debug\FireManager.pdb
